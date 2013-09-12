@@ -180,7 +180,7 @@ box with another.
 * layered below higher numbers. Normal (non-MGLayoutBox) views are treated as
 * having a `zIndex` of zero.
 */
-@property (nonatomic, assign) int zIndex;
+@property (nonatomic, assign) NSInteger zIndex;
 
 /** @name Child positioning */
 
