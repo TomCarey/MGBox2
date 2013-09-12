@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
 
   s.platform     = :ios, '5.0'
 
-  s.source_files = 'MGBox/**/*.{h,m}'
+  s.source_files = 'MGBoxKit/**/*.{h,m}'
 
   s.framework  = 'QuartzCore', 'CoreText'
   s.requires_arc = true
